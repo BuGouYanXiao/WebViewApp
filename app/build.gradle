@@ -17,7 +17,7 @@ android {
 
     productFlavors {
         app {
-            buildConfigField "String", "URL", "\"https://dclef.icu\""
+            buildConfigField "String", "URL", "\"https://ssl/jobcan.jp/login/mb-employee?client_id=C16117-95623-870523&lang_code=ja""
         }
 
 
